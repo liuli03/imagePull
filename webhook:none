@@ -1,1 +1,1 @@
-FROM webhook:<none>
+FROM  gcr.io/knative-releases/knative.dev/serving/cmd/webhook
